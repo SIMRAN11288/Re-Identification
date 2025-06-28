@@ -10,4 +10,3 @@ This is used for loading a custom trained YOLOv8 model and for object detection.
 Module: deep_sort_realtime.deepsort_tracker.DeepSort
 Intialize DeepSort tracker and update tracks with detections
 4. NumPy (implicitly used)
-used implicitly
